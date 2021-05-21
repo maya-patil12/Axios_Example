@@ -1,0 +1,24 @@
+{
+  "reminders": [
+    {
+      "id": "2",
+      "reminder": "Take the dog out for a walk",
+      "time": "6:00pm"
+    },
+    {
+      "id": "3",
+      "reminder": "Send invoice to client",
+      "time": "8:00am"
+    },
+    {
+      "id": "6",
+      "reminder": "Party",
+      "time": "10:00am"
+    },
+    {
+      "id": "4",
+      "reminder": "Ganesh Puja",
+      "time": "6:00 AM"
+    }
+  ]
+}
